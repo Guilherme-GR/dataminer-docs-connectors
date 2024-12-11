@@ -154,7 +154,7 @@ The JSON message defines which properties should be updated and must include the
 }
 ```
 
-The properties that can be updated with this feature are limited to the following:
+Since <ins>version 1.0.5.3</ins>, the properties that can be updated with this feature are limited to the following:
 
 | Views | Services | Elements |
 |-----------|--------------|--------------|
